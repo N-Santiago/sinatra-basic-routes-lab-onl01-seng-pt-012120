@@ -11,7 +11,7 @@ get '/hometown' do
 end
 
 get '/favorite-song' do
-  ""
+  "Waiting Room"
 end
 
 end
