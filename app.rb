@@ -10,8 +10,8 @@ get '/hometown' do
   "Manatííííí!!!!!!!"
 end
 
-get '/hometown' do
-  "Manatííííí!!!!!!!"
+get '/favorite-song' do
+  ""
 end
 
 end
